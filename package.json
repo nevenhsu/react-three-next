@@ -1,0 +1,41 @@
+{
+  "name": "nextapp",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "start:pm2": "pm2 start npm --name nextapp -- start",
+    "stop:pm2": "pm2 stop nextapp && pm2 delete nextapp"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.10.4",
+    "@emotion/server": "^11.10.0",
+    "@emotion/styled": "^11.10.4",
+    "@mantine/core": "^5.5.5",
+    "@mantine/hooks": "^5.5.5",
+    "@mantine/next": "^5.5.5",
+    "date-fns": "^2.29.3",
+    "date-fns-tz": "^1.3.7",
+    "lodash": "^4.17.21",
+    "mongoose": "^6.6.5",
+    "next": "12.3.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "tcp-port-used": "^1.0.2",
+    "tunnel-ssh": "^4.1.6"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.186",
+    "@types/node": "18.8.5",
+    "@types/react": "18.0.21",
+    "@types/react-dom": "18.0.6",
+    "@types/tcp-port-used": "^1.0.1",
+    "@types/tunnel-ssh": "^4.1.1",
+    "eslint": "8.25.0",
+    "eslint-config-next": "12.3.1",
+    "typescript": "4.8.4"
+  }
+}
