@@ -1188,50 +1188,50 @@
     "@jridgewell/resolve-uri" "3.1.0"
     "@jridgewell/sourcemap-codec" "1.4.14"
 
-"@mantine/core@^5.5.5":
-  version "5.5.5"
-  resolved "https://registry.yarnpkg.com/@mantine/core/-/core-5.5.5.tgz#e2d11a6d950801f616afacbde1b607bffc8ef1dc"
-  integrity sha512-VjNpz5mvV1hg6RbVuLkA9uY+iS3Ocpg9C0ZjnBuMKbDA9TYmpxgLJ1Eo56OMfJvQ03W8qG/prIwY8QNZddtNBg==
+"@mantine/core@^5.5.6":
+  version "5.5.6"
+  resolved "https://registry.yarnpkg.com/@mantine/core/-/core-5.5.6.tgz#cc2f3a36916ca8aa5763648d81ae9a074b43e35c"
+  integrity sha512-os8vh3zCp2tMtU8j2nBwn8ecLoU4dNe5LfI2aZ+xrl8nRKOz4HZy72EpbuSWHUvAtuTrOQdI4i5QtIdaTPl+lg==
   dependencies:
     "@floating-ui/react-dom-interactions" "^0.10.1"
-    "@mantine/styles" "5.5.5"
-    "@mantine/utils" "5.5.5"
+    "@mantine/styles" "5.5.6"
+    "@mantine/utils" "5.5.6"
     "@radix-ui/react-scroll-area" "1.0.0"
     react-textarea-autosize "8.3.4"
 
-"@mantine/hooks@^5.5.5":
-  version "5.5.5"
-  resolved "https://registry.yarnpkg.com/@mantine/hooks/-/hooks-5.5.5.tgz#cffe0080d940e951d69a1496d4a4b8484163711e"
-  integrity sha512-qWZAZm203s0knYk6Ut4VPvur9H5BMul02cCb9E09s60iSjnLRHDC3f73VmSzmLZNVfgE+7hXUhguR/1lC7js4Q==
+"@mantine/hooks@^5.5.6":
+  version "5.5.6"
+  resolved "https://registry.yarnpkg.com/@mantine/hooks/-/hooks-5.5.6.tgz#98c2f0654ec1f006b47eb58ec384fd3ff526e999"
+  integrity sha512-AecrtNxg1QsTekxHj3OOH3HM+L9Iu/ix8OsfXt1mhLgSvUMhpAGnO/ouQ5KVn1vzaQkzQ2k4XZXULjBIxfOWGw==
 
-"@mantine/next@^5.5.5":
-  version "5.5.5"
-  resolved "https://registry.yarnpkg.com/@mantine/next/-/next-5.5.5.tgz#ebc1b1fbd14682f3d75338be70d63b886031e91e"
-  integrity sha512-hxsIv/Q2pQdsy/WVvufEz8y3sZN1cTwt+ijk0Y2GVAo4ujmF+u5EZqjrt2lwn8mBl+OIzzQaRfhxMhXrjoJvaw==
+"@mantine/next@^5.5.6":
+  version "5.5.6"
+  resolved "https://registry.yarnpkg.com/@mantine/next/-/next-5.5.6.tgz#b05b7f8ab573874fae0fe4af8f198be9cba3f43c"
+  integrity sha512-DXg4Oeuag++ssg2R91H6+/VfffxhY7SSDmSmoH9c5Kuv+qlr7xPlAX3Oc/7A5iqv66wirYCa67uohLcAvaUgTQ==
   dependencies:
-    "@mantine/ssr" "5.5.5"
-    "@mantine/styles" "5.5.5"
+    "@mantine/ssr" "5.5.6"
+    "@mantine/styles" "5.5.6"
 
-"@mantine/ssr@5.5.5":
-  version "5.5.5"
-  resolved "https://registry.yarnpkg.com/@mantine/ssr/-/ssr-5.5.5.tgz#101a2b9bb0949ee1b38082d8da2f8f6c86439ee0"
-  integrity sha512-lDlK6/pD6X3nM/RAX2RNxhov2qgqGxowkPV93HWTwVaS9vSUAd+Sf+CMPeK+9n4yHSrCCTBNpLbiyJJvJyr13A==
+"@mantine/ssr@5.5.6":
+  version "5.5.6"
+  resolved "https://registry.yarnpkg.com/@mantine/ssr/-/ssr-5.5.6.tgz#b471557760e56cae295bc16c581cad1763f78173"
+  integrity sha512-mM1a09U+hj4cU+ZwvgME3a7BNFbTj7CCAZSQxp0/R302vnFA5AYu/qJi8Uo9LBaIwzMe1Vo5JmQRdSXpCQ6eIw==
   dependencies:
-    "@mantine/styles" "5.5.5"
+    "@mantine/styles" "5.5.6"
     html-react-parser "1.4.12"
 
-"@mantine/styles@5.5.5":
-  version "5.5.5"
-  resolved "https://registry.yarnpkg.com/@mantine/styles/-/styles-5.5.5.tgz#1bb49031f68c3c2d54cbd5c3ac62131ced4fa110"
-  integrity sha512-cAYLoqQbnyoJepD7zstFF+A2/rj8DJblBzEdri0V+CWQccpqfP5xOTPEvCHVwQUODg40uT9PyVwFZ4h+zyyzvg==
+"@mantine/styles@5.5.6":
+  version "5.5.6"
+  resolved "https://registry.yarnpkg.com/@mantine/styles/-/styles-5.5.6.tgz#de5ea457c04f612e14632d6a253479314b075446"
+  integrity sha512-D9H4i7N1CooIRDSIChWBjrTC1eBfzU3Y9xJgKimINWQqBwSAUzgZgj06YDqp9OskB7QO79RDG6cKUsR4rNhv9w==
   dependencies:
     clsx "1.1.1"
     csstype "3.0.9"
 
-"@mantine/utils@5.5.5":
-  version "5.5.5"
-  resolved "https://registry.yarnpkg.com/@mantine/utils/-/utils-5.5.5.tgz#22b412b6e9d78f2515f9f98db3f5ed83deca91ca"
-  integrity sha512-nt8+A0N1cV4cJNqlKuXazShoEwqtLohHNKFuywEdF3B6vHWdbY799PbT2WmqGTwNQ+se8y5/nBMmamBZrUN4fg==
+"@mantine/utils@5.5.6":
+  version "5.5.6"
+  resolved "https://registry.yarnpkg.com/@mantine/utils/-/utils-5.5.6.tgz#769fce79028ac6842b15753e0e9c16480be0b585"
+  integrity sha512-uEeMwTPmt7HMdtdbu7pZQ3en5F3Dj7cavhWGRcokj7PluuzNM+79iR/g4bJ3C4SKhj5LdHi7KjX8+zp6GKyrBg==
 
 "@next/bundle-analyzer@^12.3.1":
   version "12.3.1"
@@ -1479,10 +1479,10 @@
   resolved "https://registry.yarnpkg.com/@react-spring/types/-/types-9.5.5.tgz#c8e94f1b9232ca7cb9d860ea67762ec401b1de14"
   integrity sha512-7I/qY8H7Enwasxr4jU6WmtNK+RZ4Z/XvSlDvjXFVe7ii1x0MoSlkw6pD7xuac8qrHQRm9BTcbZNyeeKApYsvCg==
 
-"@react-three/drei@^9.34.4":
-  version "9.34.4"
-  resolved "https://registry.yarnpkg.com/@react-three/drei/-/drei-9.34.4.tgz#df74eb60925fda901dc478759e56653dda64eab6"
-  integrity sha512-MhtyFpklFTwsgH0V/pZ1tW2GkXwNpQtTXlobbNs2z6cAozke7NOPtSGZR0C1txs/+k9k7/VK0nQ7XphGQ9c9QA==
+"@react-three/drei@^9.36.0":
+  version "9.36.0"
+  resolved "https://registry.yarnpkg.com/@react-three/drei/-/drei-9.36.0.tgz#9fdb4fe81b9d0a8b6640d0314bd1cf4c134f0d97"
+  integrity sha512-D4628ws3K1CLIteBL1OKRABkIlNdIuPSHaPVW6pVHya32KxA+RKcKlzwltA0v77XFZUV4of5Bn3WVy7fOnYtow==
   dependencies:
     "@babel/runtime" "^7.11.2"
     "@react-spring/three" "^9.3.1"
@@ -1498,7 +1498,7 @@
     stats.js "^0.17.0"
     suspend-react "^0.0.8"
     three-mesh-bvh "^0.5.15"
-    three-stdlib "^2.17.1"
+    three-stdlib "^2.17.3"
     troika-three-text "^0.46.4"
     utility-types "^3.10.0"
     zustand "^3.5.13"
@@ -1609,10 +1609,15 @@
   resolved "https://registry.yarnpkg.com/@types/minimatch/-/minimatch-5.1.2.tgz#07508b45797cb81ec3f273011b054cd0755eddca"
   integrity sha512-K0VQKziLUWkVKiRVrx4a40iPaxTUefQmjtkQofBkYRcoaaL/8rhwDWww9qWbrgicNOgnpIsMxyNIUM4+n6dUIA==
 
-"@types/node@*", "@types/node@18.8.5":
+"@types/node@*":
   version "18.8.5"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-18.8.5.tgz#6a31f820c1077c3f8ce44f9e203e68a176e8f59e"
   integrity sha512-Bq7G3AErwe5A/Zki5fdD3O6+0zDChhg671NfPjtIcbtzDNZTv4NPKMRFr7gtYPG7y+B8uTiNK4Ngd9T0FTar6Q==
+
+"@types/node@18.11.2":
+  version "18.11.2"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.11.2.tgz#c59b7641832531264fda3f1ba610362dc9a7dfc8"
+  integrity sha512-BWN3M23gLO2jVG8g/XHIRFWiiV4/GckeFIqbU/C4V3xpoBBWSMk4OZomouN0wCkfQFPqgZikyLr7DOYDysIkkw==
 
 "@types/offscreencanvas@^2019.6.4":
   version "2019.7.0"
@@ -4969,10 +4974,10 @@ three-mesh-bvh@^0.5.15:
   resolved "https://registry.yarnpkg.com/three-mesh-bvh/-/three-mesh-bvh-0.5.16.tgz#ed8518355fb70d7da6a5537558ba43f76a56b067"
   integrity sha512-kN3QGKJNiQQcuiOsjVIkjtPnV3PJa+0Orih2E52afa+kQfs3zfoYt6Kxn6b6RNiAfaQ+7ckwPK0mTVFVl2F2LA==
 
-three-stdlib@^2.17.1:
-  version "2.17.2"
-  resolved "https://registry.yarnpkg.com/three-stdlib/-/three-stdlib-2.17.2.tgz#9c2a2914a16123853531612dac8870e6e242685b"
-  integrity sha512-7ZLCJJogtn1D1MlUi7q0iLUbrxj7K++YxjHIIz5AZ4wX4E137BgiiTmhH4XhAuvXGRk9ph3ZtoHTfJBXhqDX3w==
+three-stdlib@^2.17.3:
+  version "2.17.3"
+  resolved "https://registry.yarnpkg.com/three-stdlib/-/three-stdlib-2.17.3.tgz#f92d322810d81379a51344b21e0a2e941b84cb8f"
+  integrity sha512-k2VwPXi75ySy0fxPIeUk3mLkj3/j+sCFK4g9Kp5J7w0PUh6qrCdhah7L6+On6fW5mBdVtML4Q5yEyN1R0Cfvqw==
   dependencies:
     "@babel/runtime" "^7.16.7"
     "@types/offscreencanvas" "^2019.6.4"
